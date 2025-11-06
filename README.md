@@ -75,4 +75,4 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 This project is licensed under the **MIT License**.
 
 ---
-💡 *Developed by [Rajan Sharma](https://github.com/Rajan-sharma-0)*
+💡 *Developed by Pankaj Saini CSE 
