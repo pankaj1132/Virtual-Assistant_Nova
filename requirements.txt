@@ -1,0 +1,13 @@
+pyautogui
+pyttsx3
+SpeechRecognition
+PyAudio
+opencv-python
+requests
+wikipedia
+pywhatkit
+pyjokes
+python-dotenv
+pygame
+Pillow
+psutil
